@@ -1,3 +1,4 @@
+" ######################################################################### "
 set wrap linebreak
 set hls
 set tabstop=4 shiftwidth=4 expandtab
@@ -83,3 +84,4 @@ inoremap <Left>  <ESC>:echoe "Use h"<CR>
 inoremap <Right> <ESC>:echoe "Use l"<CR>
 inoremap <Up>    <ESC>:echoe "Use k"<CR>
 inoremap <Down>  <ESC>:echoe "Use j"<CR>
+" ######################################################################### "
